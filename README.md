@@ -15,8 +15,7 @@ Images acquired by a camera rotating about its centre are related to each other 
 
 The implementation of planar panoramic mosaicking with projective transformation has been discussed in detail below. The process has been explained briefly with the help of flow chart followed by a detailed explanation on the steps taken to write the code and the methods used to accomplish each step.
 
-https://drive.google.com/open?id=0B2o4ZpVQh__LclZNT1lGZnFSM00
-
+![flow](https://cloud.githubusercontent.com/assets/17132432/16131161/c85e5aa6-33da-11e6-9a04-30f6498c2c49.PNG)
 
 ###How to run:
 
