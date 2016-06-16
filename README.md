@@ -1,4 +1,4 @@
-###Image Mosaic Generation
+#Image Mosaic Generation
 
 ##Image Mosaic:
 The task here is to generate a single image from a collection of smaller, overlapping, multiple photographic images. The process itself is divided into three main categories, namely image registration, calibration and blending.
